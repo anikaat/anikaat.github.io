@@ -1,11 +1,10 @@
-## Welcome to *anikaat.github.io*
+# **Welcome to anikaat.github.io**
+### *In this site you will know more about me!*
 ---
-> `Hi! in this website we will know about the 
+> Hi! My name is Anika F. Tanao-Tanao or you can call me Nika.
 ---
-[LMS](https://jhsportal.adnu.edu.ph/)
---
-![image](https://user-images.githubusercontent.com/118236814/202339687-b9f15496-b290-42ce-99f6-77393ac91ba1.png)
-
-|Monday| Tuesday| Wednesday| Thursday| Friday|
-| -----| -------| ---------| --------| -------| 
+ Skills/Hobbies I Have
+- Playing Volleyball 🏐
+- Playinng Ukulele 🎸
+- Watching Movies/K-dramas 🎞️
 
