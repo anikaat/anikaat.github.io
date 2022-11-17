@@ -23,10 +23,10 @@
 
 ## Music I Like to Listen to
 
-1. Anti-Hero
+- Anti-Hero
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b1kbLwvqugk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. Die For You
+- Die For You
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QLCpqdqeoII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
