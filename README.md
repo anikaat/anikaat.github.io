@@ -1,8 +1,11 @@
-### Welcome to *anikaat.github.io*
+## Welcome to *anikaat.github.io*
 ---
-Things I want to do
-- 
-- 
-- 
+> `Hi! in this website we will know about the 
+---
+[LMS](https://jhsportal.adnu.edu.ph/)
+--
+![image](https://user-images.githubusercontent.com/118236814/202339687-b9f15496-b290-42ce-99f6-77393ac91ba1.png)
 
-![image](https://user-images.githubusercontent.com/118236814/202055441-015fabbc-da86-41dd-8b44-dd540e378515.png)
+|Monday| Tuesday| Wednesday| Thursday| Friday|
+| -----| -------| ---------| --------| -------| 
+
