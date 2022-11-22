@@ -7,7 +7,7 @@
 ---
 ## Skills/Hobbies I Have
 - Playing Volleyball 🏐
-- Playinng Ukulele 🎸
+- Playing Ukulele 🎸
 - Watching Movies/K-dramas 🎞️
 - Playing Badminton 🏸
 - Playing Online Games 🖥️
